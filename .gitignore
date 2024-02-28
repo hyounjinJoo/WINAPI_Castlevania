@@ -32,3 +32,5 @@
 *.app
 /GameFramework/BinObj
 /.vs
+/GameFramework/Bin/Bin.zip
+/GameFramework/Include/Animation/*.bak
